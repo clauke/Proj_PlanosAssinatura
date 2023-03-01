@@ -4,6 +4,7 @@ PROJETO DE BUSINESS INTELLIGENCE PARA PLANOS DE ASSINATURA
 VISÃO GERAL
 
 I.	Introdução
+
 Este é um projeto de BI para empresas que comercializam seus produtos/serviços com base em pagamento recorrente, ou seja, o cliente adquire um dos planos ofertados se tornando um assinante. Seu escopo pode ser aplicado à diversos tipos de negócio, tais como: streaming, academias, plataformas de cursos, sites de apostas, etc.
 
 II.	Escopo
