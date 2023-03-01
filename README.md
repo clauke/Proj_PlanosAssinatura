@@ -30,6 +30,7 @@ IV.	Etapas
 
 V.	Considerações
 Compreende-se que a criação de dashboards utilizando somente Excel é perfeitamente possível. Mas, deve-se avaliar custos e prazos envolvidos, já que existem ferramentas de BI mais eficientes. Quero dizer: construir dashboards no Excel é muito mais trabalhoso do que no Power BI, por exemplo.
+
 VI.	Acesso
 Para visualizar o dashboard, baixe o arquivo Dados_Dash.xlsx e navegue até a planilha Dashboard.
 Para uma melhor visualização: Aumente o Zoom para 100%; oculte a Barra de Fórmulas, Títulos e Faixa de Opções.
